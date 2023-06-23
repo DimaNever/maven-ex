@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a074dd5-404e-46c9-a55f-cafba9282920" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/web_Web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/web_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/src/main/java/com/dmdevmvn/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/src/main/java/com/dmdevmvn/database/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/src/main/java/com/dmdevmvn/database/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/src/test/java/com/dmdevmvn/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello2/src/main/java/com/dmdevmvn/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello2/src/main/java/com/dmdevmvn/HelloMojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello2/src/test/java/com/dmdevmvn/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/dmdevmvn/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/dmdevmvn/service/AppRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/dmdevmvn/service/dto/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/dmdevmvn/service/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/test/java/com/dmdevmvn/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/java/com/dmdevmvn/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/java/com/dmdevmvn/web/servlet/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/test/java/com/dmdevmvn/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RQWMJ08Ut4Ur2Sr472MEUeZZPo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nasty/IdeaProjects/maven-ex/src/test/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.24004978&quot;,
+    &quot;settings.build.tools.auto.reload&quot;: &quot;SELECTIVE&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;bccc3d067887201c01c690486df4f8f1&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nasty\IdeaProjects\maven-ex\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nasty\IdeaProjects\maven-ex\web\src\main" />
+      <recent name="C:\Users\nasty\IdeaProjects\maven-ex\src\main" />
+      <recent name="C:\Users\nasty\IdeaProjects\maven-ex\web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dmdevmvn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdevmvn.App" />
+      <module name="maven-ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dmdevmvn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstServlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdevmvn.servlet.FirstServlet" />
+      <module name="maven-ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dmdevmvn.servlet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.FirstServlet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a074dd5-404e-46c9-a55f-cafba9282920" name="Changes" comment="" />
+      <created>1687182737818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687182737818</updated>
+      <workItem from="1687182738843" duration="489000" />
+      <workItem from="1687238920498" duration="4491000" />
+      <workItem from="1687243469736" duration="1930000" />
+      <workItem from="1687245427289" duration="4676000" />
+      <workItem from="1687251112327" duration="71000" />
+      <workItem from="1687251194849" duration="8669000" />
+      <workItem from="1687321414662" duration="14536000" />
+      <workItem from="1687416335213" duration="20669000" />
+      <workItem from="1687506826633" duration="1690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
